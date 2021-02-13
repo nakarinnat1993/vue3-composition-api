@@ -1,3 +1,3 @@
-# vue3-composition_apis
+# vue3-composition_api
 
 Vue 3
